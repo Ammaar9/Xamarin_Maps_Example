@@ -1,0 +1,8 @@
+C:\Users\Master\Source\repos\Xamarin_Maps_Example\Xamarin_Maps_Example\Xamarin_Maps_Example\bin\Debug\netstandard2.0\Xamarin_Maps_Example.deps.json
+C:\Users\Master\Source\repos\Xamarin_Maps_Example\Xamarin_Maps_Example\Xamarin_Maps_Example\bin\Debug\netstandard2.0\Xamarin_Maps_Example.dll
+C:\Users\Master\Source\repos\Xamarin_Maps_Example\Xamarin_Maps_Example\Xamarin_Maps_Example\obj\Debug\netstandard2.0\Xamarin_Maps_Example.csprojAssemblyReference.cache
+C:\Users\Master\Source\repos\Xamarin_Maps_Example\Xamarin_Maps_Example\Xamarin_Maps_Example\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Master\Source\repos\Xamarin_Maps_Example\Xamarin_Maps_Example\Xamarin_Maps_Example\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Master\Source\repos\Xamarin_Maps_Example\Xamarin_Maps_Example\Xamarin_Maps_Example\obj\Debug\netstandard2.0\Xamarin_Maps_Example.csproj.CoreCompileInputs.cache
+C:\Users\Master\Source\repos\Xamarin_Maps_Example\Xamarin_Maps_Example\Xamarin_Maps_Example\obj\Debug\netstandard2.0\Xamarin_Maps_Example.AssemblyInfoInputs.cache
+C:\Users\Master\Source\repos\Xamarin_Maps_Example\Xamarin_Maps_Example\Xamarin_Maps_Example\obj\Debug\netstandard2.0\Xamarin_Maps_Example.AssemblyInfo.cs

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/UtORyyN78nDsHV+7NfIOgRZ7Kn8btxixf0cNGOkPQsBXn/kbPjxhydi4+AajJAvn8qHL2sdaW+ht3+CmF2Ebg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Master\\Source\\repos\\Xamarin_Maps_Example\\Xamarin_Maps_Example\\Xamarin_Maps_Example\\Xamarin_Maps_Example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Master\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Master\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Master\\.nuget\\packages\\xam.plugin.geolocator\\4.5.0.6\\xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "C:\\Users\\Master\\.nuget\\packages\\xamarin.forms\\4.3.0.991221\\xamarin.forms.4.3.0.991221.nupkg.sha512",
+    "C:\\Users\\Master\\.nuget\\packages\\xamarin.forms.maps\\4.3.0.991221\\xamarin.forms.maps.4.3.0.991221.nupkg.sha512"
+  ],
+  "logs": []
+}
